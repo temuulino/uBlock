@@ -1,6 +1,6 @@
 # Metropolis
 
-A modern, geometric typeface. Influenced by other popular geometric, minimalist sans-serif typefaces of the new millennium. Designed for optimal readability at small point sizes while beautiful at large point sizes.
+This is a modern typeface with a geometric design that draws inspiration from other popular minimalist sans-serif typefaces of the new millennium. It has been crafted to ensure optimal legibility at small point sizes, yet remains visually appealing at larger sizes.
 
 ![Metropolis](./Specimens/Metro-1.png)
 
